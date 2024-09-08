@@ -190,16 +190,16 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "3D Portfolio",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Personal Portfolio made using react and three js inspired from Burno Simon",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "threejs",
         color: "green-text-gradient",
       },
       {
@@ -208,49 +208,45 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/veesesh/3DPortfolio",
   },
   {
-    name: "Job IT",
+    name: "Snippet Safe",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Web application that makes it simple to organize and find code snippets. Increase productivity and simplify the way you work. Your snippets are instantly available.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "mongoDB",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "hugging face",
         color: "pink-text-gradient",
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://devpost.com/software/snippetsafe",
   },
   {
-    name: "Trip Guide",
+    name: "Other Projects",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "This redirects to my devpost account, where i have made projjects individually and as a team during multiple hackathons that I have been participating so far",
     tags: [
       {
-        name: "nextjs",
+        name: "hackathons",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "projects",
         color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://devpost.com/vee19",
   },
 ];
 
